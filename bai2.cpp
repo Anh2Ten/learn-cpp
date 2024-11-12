@@ -1,6 +1,6 @@
 //Bài 2: Tính S(n) = 1^2 + 2^2 + … + n^2
  
-include <iostream>
+#include <iostream>
 using namespace std;
 
 int main() {
