@@ -1,6 +1,6 @@
 //Bài 1: Tính S(n) = 1 + 2 + 3 + … + n 
 
-include <iostream>
+#include <iostream>
 using namespace std;
 
 int main() {
